@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('SourceSansPro-SemiBold.eot');
+    src: url('SourceSansPro-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('SourceSansPro-SemiBold.woff2') format('woff2'),
+        url('SourceSansPro-SemiBold.woff') format('woff'),
+        url('SourceSansPro-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
